@@ -1,0 +1,3 @@
+Line 1: Linux file practice
+Line 2: Leraning rediraction
+Line 3: Practicing cat head and tail
